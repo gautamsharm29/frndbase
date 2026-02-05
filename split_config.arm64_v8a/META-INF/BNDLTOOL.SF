@@ -1,0 +1,65 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA1-Digest-Manifest: u8Wv5kdNU9yDzpEISRGMFyZC+Fw=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA1-Digest: PL934Hplv+8N/PsAmsdwvIslfMY=
+
+Name: lib/arm64-v8a/libagora-fdkaac.so
+SHA1-Digest: RBKhaCJwV37gQ2puKodI3PhWOg4=
+
+Name: lib/arm64-v8a/libagora-ffmpeg.so
+SHA1-Digest: GVOFtvHFdjYUAWMdrMQIMK5d1C4=
+
+Name: lib/arm64-v8a/libagora-rtc-sdk.so
+SHA1-Digest: B71rMMpXpn+dSWWJHfkqsnpP5zM=
+
+Name: lib/arm64-v8a/libagora-soundtouch.so
+SHA1-Digest: 0aLy2eBEAQm8yL0NY6nlfRwvRTs=
+
+Name: lib/arm64-v8a/libagora_clear_vision_extension.so
+SHA1-Digest: aN7bWfSLhcSmZ85asNvSKlibt3o=
+
+Name: lib/arm64-v8a/libagora_segmentation_extension.so
+SHA1-Digest: 6HEHxiK+Cu2+tdiOiqFIc28U79Q=
+
+Name: lib/arm64-v8a/libandroidx.graphics.path.so
+SHA1-Digest: qdPELWZ8G0EiUHhBZOMomwUjY54=
+
+Name: lib/arm64-v8a/libaosl.so
+SHA1-Digest: WuP5mHxlLza5k425NEAMe9omPV4=
+
+Name: lib/arm64-v8a/libbugsnag-ndk.so
+SHA1-Digest: CzoleqySwpPX/2R+oDW6khqfirY=
+
+Name: lib/arm64-v8a/libbugsnag-plugin-android-anr.so
+SHA1-Digest: Xc5gMyoWDeT3EoBRH45uTCPjAUI=
+
+Name: lib/arm64-v8a/libbugsnag-root-detection.so
+SHA1-Digest: klr6BcdgqBAcSx60mLfvSHGsuYw=
+
+Name: lib/arm64-v8a/libeb44.so
+SHA1-Digest: rpP8e6PoDJn7MKocBHw1sU4t6dU=
+
+Name: lib/arm64-v8a/libfp.so
+SHA1-Digest: rkxFXoFZAJSl6hGFwWq2ZKS/OVo=
+
+Name: lib/arm64-v8a/libimage_processing_util_jni.so
+SHA1-Digest: bY/Kgy5V846MW2SSgGRYyfvYwls=
+
+Name: lib/arm64-v8a/librenderscript-toolkit.so
+SHA1-Digest: coU8+zmQJ5UzTUfJLoqJSDKMmuo=
+
+Name: lib/arm64-v8a/libsurface_util_jni.so
+SHA1-Digest: 6EMAtNAjZUtxGFvk9x6kMYc8Y68=
+
+Name: lib/arm64-v8a/libtensorflowlite_jni.so
+SHA1-Digest: R/WDQIETfmKtgSx3yJNy8vTC7vo=
+
+Name: lib/arm64-v8a/libtoolChecker.so
+SHA1-Digest: jWgdCgzt2VjfjoTgrPUbHTjY35M=
+
+Name: stamp-cert-sha256
+SHA1-Digest: Bs40BvDZ1xrbgQrPTD2x5w/NfHQ=
+
